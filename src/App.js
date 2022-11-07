@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <h1>UNDER CONSTRUCTION</h1>
+      <h2>Coming Soon!</h2>
     </>
   );
 }
